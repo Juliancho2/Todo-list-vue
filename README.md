@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+```sh
+link: https://candid-figolla-c57d34.netlify.app/
+```
